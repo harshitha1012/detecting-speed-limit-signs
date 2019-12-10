@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>speedlimitsignsUSA</folder>
+	<filename>42.35-mph-speed-limit-sign-usa-D9AX9E.jpg</filename>
+	<path>/Users/sreeharshithaadivi/Desktop/speedlimitsignsUSA/42.35-mph-speed-limit-sign-usa-D9AX9E.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>866</width>
+		<height>1390</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>speed limit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>146</xmin>
+			<ymin>151</ymin>
+			<xmax>762</xmax>
+			<ymax>935</ymax>
+		</bndbox>
+	</object>
+</annotation>

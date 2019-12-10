@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>speedlimitsignsUSA</folder>
+	<filename>8.41hHsm6ZbFL.jpg</filename>
+	<path>/Users/sreeharshithaadivi/Desktop/speedlimitsignsUSA/8.41hHsm6ZbFL.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>255</width>
+		<height>340</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>speed limit</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>1</ymin>
+			<xmax>243</xmax>
+			<ymax>329</ymax>
+		</bndbox>
+	</object>
+</annotation>

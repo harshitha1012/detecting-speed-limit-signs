@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>speedlimitsignsUSA</folder>
+	<filename>7.R2-1_speed-limit-regulatory-traffic-sign-firstsign_com.jpg</filename>
+	<path>/Users/sreeharshithaadivi/Desktop/speedlimitsignsUSA/7.R2-1_speed-limit-regulatory-traffic-sign-firstsign_com.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>400</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>speed limit</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>43</xmin>
+			<ymin>1</ymin>
+			<xmax>343</xmax>
+			<ymax>377</ymax>
+		</bndbox>
+	</object>
+</annotation>

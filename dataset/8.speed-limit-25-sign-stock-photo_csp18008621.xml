@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>speedlimitsignsUSA</folder>
+	<filename>8.speed-limit-25-sign-stock-photo_csp18008621.jpg</filename>
+	<path>/Users/sreeharshithaadivi/Desktop/speedlimitsignsUSA/8.speed-limit-25-sign-stock-photo_csp18008621.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>470</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>speed limit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>132</xmin>
+			<ymin>77</ymin>
+			<xmax>213</xmax>
+			<ymax>195</ymax>
+		</bndbox>
+	</object>
+</annotation>

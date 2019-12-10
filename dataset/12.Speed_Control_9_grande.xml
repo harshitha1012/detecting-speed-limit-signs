@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>speedlimitsignsUSA</folder>
+	<filename>12.Speed_Control_9_grande.PNG</filename>
+	<path>/Users/sreeharshithaadivi/Desktop/speedlimitsignsUSA/12.Speed_Control_9_grande.PNG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>388</width>
+		<height>388</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>speed limit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>42</xmin>
+			<ymin>5</ymin>
+			<xmax>335</xmax>
+			<ymax>374</ymax>
+		</bndbox>
+	</object>
+</annotation>

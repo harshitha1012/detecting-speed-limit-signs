@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>speedlimitsignsUSA</folder>
+	<filename>26.speed-limit-sign-on-bridge-at-vero-stock-photography__y4y-1982545.jpg</filename>
+	<path>/Users/sreeharshithaadivi/Desktop/speedlimitsignsUSA/26.speed-limit-sign-on-bridge-at-vero-stock-photography__y4y-1982545.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>319</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>speed limit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>257</xmin>
+			<ymin>17</ymin>
+			<xmax>377</xmax>
+			<ymax>156</ymax>
+		</bndbox>
+	</object>
+</annotation>

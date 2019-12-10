@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>speedlimitsignsUSA</folder>
+	<filename>47.road-desert-sign-usa-america-signage-road-sign-road-trip-infrastructure-death-valley-traffic-sign-speed-limit-1057644.jpg</filename>
+	<path>/Users/sreeharshithaadivi/Desktop/speedlimitsignsUSA/47.road-desert-sign-usa-america-signage-road-sign-road-trip-infrastructure-death-valley-traffic-sign-speed-limit-1057644.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3623</width>
+		<height>2842</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>speed limit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>672</xmin>
+			<ymin>1383</ymin>
+			<xmax>1749</xmax>
+			<ymax>2475</ymax>
+		</bndbox>
+	</object>
+</annotation>
