@@ -1,0 +1,16 @@
+filename,width,height,class,xmin,ymin,xmax,ymax
+14.jpg,730,730,speed limit,170,45,566,575
+15.jpg,3623,2842,speed limit,618,1259,1765,2729
+17.jpg,768,512,speed limit,49,58,251,336
+16.jpg,1300,1064,speed limit,628,400,971,816
+12.jpg,866,1390,speed limit,117,132,787,957
+13.jpg,1024,683,speed limit,414,91,597,304
+11.jpg,199,224,speed limit,17,2,180,217
+21.jpg,612,612,speed limit,150,45,333,267
+20.jpg,453,340,speed limit,231,56,426,301
+22.jpg,1200,800,speed limit,675,7,982,339
+23.jpg,0,0,speed limit,115,37,220,158
+24.jpg,1300,964,speed limit,768,106,1052,450
+18.jpg,1023,682,speed limit,119,92,586,617
+19.jpg,861,1390,speed limit,259,128,534,462
+25.jpg,300,470,speed limit,66,90,226,273
